@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:29:05.690952
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:43
 #+TITLE: 大悲心陀羅尼修行念誦略儀
 #+PROPERTY: CBETA_ID T20n1066
 #+PROPERTY: ID KR6j0272
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 20, No. 1066
 #+PROPERTY: VOL 20
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0272_T_000-0126c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0272_T_001-0126c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1066¶
-
- 大悲心陀羅尼修行念誦略儀¶
+No. 1066¶
+大悲心陀羅尼修行念誦略儀¶
 ¶
 唐北天竺三藏沙門大廣智¶
 不空奉　詔譯¶
@@ -76,9 +75,9 @@ No.1066¶
 　四無礙辯十自在
 　六通諸禪悉圓滿¶
 　如金剛幢及普賢
-　願讚迴向亦如是
+　願讚迴向亦如是」
 #+END_VERSE
-」¶
+¶
 
 次禮本尊及諸聖眾真言曰。¶
 
@@ -293,9 +292,9 @@ No.1066¶
 　所有受苦眾生類
 　蒙光照觸皆安樂¶
 　誦本真言七遍已
-　頂上散印如垂帶
+　頂上散印如垂帶」
 #+END_VERSE
-」¶
+¶
 
 心印兩手合掌虛掌內。合腕二頭指來去。¶
 
@@ -325,9 +324,9 @@ No.1066¶
 　復以馬首明王印
 　三轉真言成解界¶
 　如前請尊降入印
-　大指外撥成奉送
+　大指外撥成奉送」
 #+END_VERSE
-」¶
+¶
 
 真言曰。¶
 
@@ -342,7 +341,7 @@ No.1066¶
 　如是依法修行者
 　速集福智獲神通¶
 　現世得入歡喜地
-　後十六生成正覺
+　後十六生成正覺」
 #+END_VERSE
-」¶
+¶
 大悲心陀羅尼修行念誦略儀
